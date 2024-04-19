@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342930264787",
+    "project_id": "cyclista-f4d3b",
+    "storage_bucket": "cyclista-f4d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342930264787:android:44bf47d91e5652fda27a26",
+        "android_client_info": {
+          "package_name": "com.example.cyclista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342930264787-j1suibgoqr5hbdt8f1i19vpmsjeeeupb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzsYWSzCjFod80WdbgfgqtQdQRQHhpBfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342930264787-j1suibgoqr5hbdt8f1i19vpmsjeeeupb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

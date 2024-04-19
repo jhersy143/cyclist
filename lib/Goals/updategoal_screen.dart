@@ -1,0 +1,16 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+import 'updategoal.dart';
+class updategoalScreen extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Goal"),
+      ),
+      body: updategoalFormWidget(),
+    );
+  }
+}
